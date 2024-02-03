@@ -47,4 +47,4 @@ After analysis and visualization, the following observations were made;
 
 Visualization done on Power BI is shown below;
 
-![Pharma Sales Data](
+![Pharma Sales Data](https://github.com/iamBernardMuoneme/Pharmasalesdata/blob/main/Pharma%20sales%20capture.PNG)
